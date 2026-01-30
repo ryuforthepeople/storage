@@ -1,5 +1,5 @@
 {
-  "name": "@for-the-people/storage-core",
+  "name": "@for-the-people-initiative/storage-core",
   "version": "0.1.0",
   "type": "module",
   "main": "./dist/index.cjs",
